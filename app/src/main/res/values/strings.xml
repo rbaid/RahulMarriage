@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Rahul\'s Marriage</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Event Details</string>
+    <string name="title_section3">How to Reach</string>
+    <string name="title_section4">Sight Seeing</string>
+    <string name="title_section5">Contact Us</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home_text"> <b> We are pleased to invite you to attend \n\n\n\n</b>
+                               <i>Rahul</i><br/>
+                                &amp;
+                                <i>Priyanka</i>
+                            <b>Wedding which is to be held on 27th of May, 2015 in Udaipur</b>
+    </string>
+    <string name="hotel_address"> <b>Venue: Hotel Ambience</b>  \n\n
+Plot No. 8, Nr. Mahila Police Thana,\n
+100 Feet Road, Roop Nagar, Bhuwana\n
+Opp. The Occasion Wedding &amp; Special Event Garden,\n
+Udaipur 313001 Rajasthan, INDIA\n
+Mobile: +91-9828596555, +91-8239366888, +91-8239166888 \n
+Phone: +91-294-2980079 | 2980081 | 2100347 | 2100348 \n
+    </string>
+
+    <string name="address_hotel">
+    Plot No.8,Opp The Occasion Wedding and Party Plot,Near Mahila Police Thana,
+    Roop Nagar,100 feet Road, Bhuwana
+    Pahada
+    Udaipur, Rajasthan 313001
+    </string>
+
+    <string name="action_example">Om</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
